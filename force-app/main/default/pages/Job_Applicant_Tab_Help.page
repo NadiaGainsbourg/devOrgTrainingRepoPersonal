@@ -1,0 +1,6 @@
+<apex:page >
+ 
+  <h1>Help for Applicant custom object</h1>
+  <p> The Applicant object is for identifying and tracking individual candidates for open positions at Appcast. </p>
+ <p> Sort candidates by Name, Location, Last Modified, and Applicant Status. </p>
+</apex:page>
