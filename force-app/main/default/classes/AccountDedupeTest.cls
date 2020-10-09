@@ -4,5 +4,6 @@ private class AccountDedupeTest {
    Account myAccount = new Account();
    myAccount.Name = 'JackTheCat';
    insert myAccount;
+   //just a test comment
    }
 }
